@@ -1,0 +1,8 @@
+# Python 
+venv/
+ .venv/
+  __pycache__/
+*.pyc
+# Geheimnisse – NIE auf GitHub! 
+.env # Sonstiges 
+.vscode/
